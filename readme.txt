@@ -26,13 +26,13 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 	<repository>
 		<id>rajesh</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
+		<url>http://192.168.100.9:8081/artifactory/dhlall/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>rajesh</id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
+		<url>http://192.168.100.9:8081/artifactory/dhlall/</url>
 	</snapshotRepository>
 
 </distributionManagement>
